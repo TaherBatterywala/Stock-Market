@@ -1,2 +1,2 @@
-Stock Market Prediction
-Currently in working phase
+# Stock Market Prediction
+This project is under development
